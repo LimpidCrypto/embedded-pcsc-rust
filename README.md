@@ -1,4 +1,5 @@
-# pcsc-rust
+# embedded-pcsc-rust
+An attempt to refactor [`pcsc`](https://github.com/bluetech/pcsc-rust) to be `no_std`
 
 [![crates.io](https://img.shields.io/crates/v/pcsc)](https://crates.io/crates/pcsc)
 [![docs.rs](https://docs.rs/pcsc/badge.svg)](https://docs.rs/pcsc)
